@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\titan\documents\visual studio 2015\projects\assignment2\assignment2\assignment2header.h(124): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\titan\documents\visual studio 2015\projects\assignment2\assignment2\assignment2header.h(125): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\titan\documents\visual studio 2015\projects\assignment2\assignment2\main.cpp(92): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\titan\documents\visual studio 2015\projects\assignment2\assignment2\main.cpp(115): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\titan\documents\visual studio 2015\projects\assignment2\assignment2\main.cpp(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\titan\documents\visual studio 2015\projects\assignment2\assignment2\assignment2header.h(46): warning C4715: 'define_condition': not all control paths return a value
+c:\users\titan\documents\visual studio 2015\projects\assignment2\assignment2\assignment2header.h(62): warning C4715: 'translate_condition': not all control paths return a value
+  Assignment2.vcxproj -> C:\Users\Titan\Documents\Visual Studio 2015\Projects\Assignment2\Debug\Assignment2.exe
+  Assignment2.vcxproj -> C:\Users\Titan\Documents\Visual Studio 2015\Projects\Assignment2\Debug\Assignment2.pdb (Partial PDB)
